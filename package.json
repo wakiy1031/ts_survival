@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@testing-library/jest-dom": "5",
+    "@testing-library/react": "14",
+    "@testing-library/user-event": "14"
+  }
+}
